@@ -1,0 +1,16 @@
+{
+    "name": "wcs/quete_composer",
+    "description": "Projet quête composer",
+    "authors": [
+        {
+            "name": "WCS",
+            "email": "formateur@wildcodeschool.fr"
+        }
+    ],
+
+    "autoload": 
+        {
+            "psr-4": {"Acme\\": "src/"}
+        
+        }
+}
