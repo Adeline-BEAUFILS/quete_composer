@@ -12,5 +12,8 @@
         {
             "psr-4": {"Acme\\": "src/"}
         
-        }
+        },
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
 }
